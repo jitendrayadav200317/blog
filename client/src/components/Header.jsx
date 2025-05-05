@@ -3,6 +3,8 @@ import login from '../pages/Login'
 import createPost from '../pages/CreatePost'
 import author from '../pages/Author'
 import Hero from "./Hero"
+import { BrowserRouter, Route, Routes } from "react-router-dom";
+
 
 const Header = ()=>{
     return (
